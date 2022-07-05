@@ -20,7 +20,6 @@ int main(void)
 	{
 
 		putchar(n);
-
 		n += 1;
 
 	}
